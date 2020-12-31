@@ -10,7 +10,6 @@ mycroft-volume
 fallback-query
 
 # common
-mycroft-fallback-duck-duck-go
 fallback-wolfram-alpha
 fallback-unknown
 mycroft-alarm
