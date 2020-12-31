@@ -115,3 +115,6 @@
 [submodule "jarbas-skill-wikipedia"]
 	path = jarbas-skill-wikipedia
 	url = https://github.com/JarbasSkills/skill-wikipedia-for-humans
+[submodule "assistent-cat-skill-contes"]
+	path = assistent-cat-skill-contes
+	url = https://github.com/assistent-cat/skill-contes
