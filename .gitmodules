@@ -103,3 +103,15 @@
 [submodule "homeassistant"]
 	path = homeassistant
 	url = https://github.com/MycroftAI/mycroft-homeassistant
+[submodule "jarbas-skill-wolfie"]
+	path = jarbas-skill-wolfie
+	url = https://github.com/JarbasSkills/skill-wolfie
+[submodule "jarbas-skill-ddg"]
+	path = jarbas-skill-ddg
+	url = https://github.com/JarbasSkills/skill-ddg
+[submodule "jarbas-skill-icanhazdadjokes"]
+	path = jarbas-skill-icanhazdadjokes
+	url = https://github.com/JarbasSkills/skill-icanhazdadjokes
+[submodule "jarbas-skill-wikipedia"]
+	path = jarbas-skill-wikipedia
+	url = https://github.com/JarbasSkills/skill-wikipedia-for-humans
