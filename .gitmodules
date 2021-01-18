@@ -63,7 +63,7 @@
 	url = https://github.com/mycroftai/skill-stock.git
 [submodule "mycroft-stop"]
 	path = skill-stop
-	url = https://github.com/mycroftai/skill-stop.git
+	url = https://github.com/assistent-cat/skill-stop.git
 [submodule "mycroft-support-helper"]
 	path = skill-support
 	url = https://github.com/mycroftai/skill-support.git
