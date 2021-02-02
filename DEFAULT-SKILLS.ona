@@ -1,0 +1,22 @@
+# core
+mycroft-stop
+mycroft-playback-control
+mycroft-speak
+# mycroft-volume # No support yet
+fallback-query
+
+# common
+jarbas-skill-wolfie
+jarbas-skill-wikipedia
+assistent-cat-skill-contes
+fallback-unknown
+#mycroft-alarm # No support yet
+mycroft-date-time
+mycroft-joke
+mycroft-npr-news
+mycroft-personal
+#mycroft-reminder # No support yet
+#mycroft-singing # possible?
+mycroft-spelling
+#mycroft-timer # No support yet
+mycroft-weather
