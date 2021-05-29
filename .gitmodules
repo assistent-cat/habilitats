@@ -118,3 +118,6 @@
 [submodule "assistent-cat-skill-contes"]
 	path = assistent-cat-skill-contes
 	url = https://github.com/assistent-cat/skill-contes
+[submodule "9mv-multiplication-tables-skill"]
+	path = 9mv-multiplication-tables-skill
+	url = https://github.com/9mv/multiplication-tables-skill.git
