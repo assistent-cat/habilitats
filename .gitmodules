@@ -34,9 +34,6 @@
 [submodule "mycroft-naptime"]
 	path = skill-naptime
 	url = https://github.com/mycroftai/skill-naptime.git
-[submodule "mycroft-npr-news"]
-	path = skill-npr-news
-	url = https://github.com/JarbasLingua/skill-news.git
 [submodule "mycroft-pairing"]
 	path = skill-pairing
 	url = https://github.com/mycroftai/skill-pairing.git
